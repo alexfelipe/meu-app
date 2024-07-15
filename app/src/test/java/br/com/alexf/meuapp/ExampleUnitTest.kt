@@ -3,6 +3,7 @@ package br.com.alexf.meuapp
 import org.junit.Test
 
 import org.junit.Assert.*
+import java.time.LocalDateTime
 
 /**
  * Example local unit test, which will execute on the development machine (host).
